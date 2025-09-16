@@ -1,6 +1,9 @@
-﻿namespace MovieApp.Repositories;
+﻿using MovieApp.Repositories.Abstractions;
+using MovieApp.Repositories.JunctionsConfigurations;
 
-public sealed class Actor
+namespace MovieApp.Repositories.Actor;
+
+public sealed class Actor: BaseEntity
 {
     public string Name { get; set; } = null!;
     public string National { get; set; } = null!;

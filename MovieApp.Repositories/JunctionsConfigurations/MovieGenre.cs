@@ -1,4 +1,4 @@
-﻿namespace MovieApp.Repositories;
+﻿namespace MovieApp.Repositories.JunctionsConfigurations;
 
 public sealed class MovieGenre
 {

@@ -1,4 +1,4 @@
-﻿namespace MovieApp.Repositories;
+﻿namespace MovieApp.Repositories.JunctionsConfigurations;
 
 public sealed class MovieActor
 {
@@ -7,5 +7,4 @@ public sealed class MovieActor
     public int ActorId { get; set; }
     public Actor Actor { get; set; } = null!;
 
-    public string RoleName { get; set; } = null!;
 }

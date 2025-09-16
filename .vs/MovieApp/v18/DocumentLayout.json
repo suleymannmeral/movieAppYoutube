@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|c:\\users\\mrlsl\\source\\repos\\movieapp\\movieapp.repositories\\junctionsconfigurations\\moviegenreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|solutionrelative:movieapp.repositories\\junctionsconfigurations\\moviegenreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|c:\\users\\mrlsl\\source\\repos\\movieapp\\movieapp.repositories\\junctionsconfigurations\\movieactorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|solutionrelative:movieapp.repositories\\junctionsconfigurations\\movieactorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|c:\\users\\mrlsl\\source\\repos\\movieapp\\movieapp.repositories\\genre\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|solutionrelative:movieapp.repositories\\genre\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|c:\\users\\mrlsl\\source\\repos\\movieapp\\movieapp.repositories\\genre\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|solutionrelative:movieapp.repositories\\genre\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|c:\\users\\mrlsl\\source\\repos\\movieapp\\movieapp.repositories\\abstractions\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|solutionrelative:movieapp.repositories\\abstractions\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|c:\\users\\mrlsl\\source\\repos\\movieapp\\movieapp.repositories\\director\\directorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|solutionrelative:movieapp.repositories\\director\\directorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|c:\\users\\mrlsl\\source\\repos\\movieapp\\movieapp.repositories\\movie\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|solutionrelative:movieapp.repositories\\movie\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|c:\\users\\mrlsl\\source\\repos\\movieapp\\movieapp.repositories\\director\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|solutionrelative:movieapp.repositories\\director\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|c:\\users\\mrlsl\\source\\repos\\movieapp\\movieapp.repositories\\actor\\actorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|solutionrelative:movieapp.repositories\\actor\\actorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|c:\\users\\mrlsl\\source\\repos\\movieapp\\movieapp.repositories\\movie\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|solutionrelative:movieapp.repositories\\movie\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|c:\\users\\mrlsl\\source\\repos\\movieapp\\movieapp.repositories\\actor\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|solutionrelative:movieapp.repositories\\actor\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|c:\\users\\mrlsl\\source\\repos\\movieapp\\movieapp.repositories\\junctionsconfigurations\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|solutionrelative:movieapp.repositories\\junctionsconfigurations\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|c:\\users\\mrlsl\\source\\repos\\movieapp\\movieapp.repositories\\junctionsconfigurations\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50A61FE-6DFC-4CF8-BB52-5997FE69BD00}|MovieApp.Repositories\\MovieApp.Repositories.csproj|solutionrelative:movieapp.repositories\\junctionsconfigurations\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieGenreConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\JunctionsConfigurations\\MovieGenreConfiguration.cs",
+              "RelativeDocumentMoniker": "MovieApp.Repositories\\JunctionsConfigurations\\MovieGenreConfiguration.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\JunctionsConfigurations\\MovieGenreConfiguration.cs",
+              "RelativeToolTip": "MovieApp.Repositories\\JunctionsConfigurations\\MovieGenreConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:27:50.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieActorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\JunctionsConfigurations\\MovieActorConfiguration.cs",
+              "RelativeDocumentMoniker": "MovieApp.Repositories\\JunctionsConfigurations\\MovieActorConfiguration.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\JunctionsConfigurations\\MovieActorConfiguration.cs",
+              "RelativeToolTip": "MovieApp.Repositories\\JunctionsConfigurations\\MovieActorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:24:27.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenreConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Genre\\GenreConfiguration.cs",
+              "RelativeDocumentMoniker": "MovieApp.Repositories\\Genre\\GenreConfiguration.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Genre\\GenreConfiguration.cs",
+              "RelativeToolTip": "MovieApp.Repositories\\Genre\\GenreConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:21:45.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DirectorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Director\\DirectorConfiguration.cs",
+              "RelativeDocumentMoniker": "MovieApp.Repositories\\Director\\DirectorConfiguration.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Director\\DirectorConfiguration.cs",
+              "RelativeToolTip": "MovieApp.Repositories\\Director\\DirectorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:19:46.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Actor\\ActorConfiguration.cs",
+              "RelativeDocumentMoniker": "MovieApp.Repositories\\Actor\\ActorConfiguration.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Actor\\ActorConfiguration.cs",
+              "RelativeToolTip": "MovieApp.Repositories\\Actor\\ActorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:15:42.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Movie\\MovieConfiguration.cs",
+              "RelativeDocumentMoniker": "MovieApp.Repositories\\Movie\\MovieConfiguration.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Movie\\MovieConfiguration.cs",
+              "RelativeToolTip": "MovieApp.Repositories\\Movie\\MovieConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:08:45.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieActor.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\JunctionsConfigurations\\MovieActor.cs",
+              "RelativeDocumentMoniker": "MovieApp.Repositories\\JunctionsConfigurations\\MovieActor.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\JunctionsConfigurations\\MovieActor.cs",
+              "RelativeToolTip": "MovieApp.Repositories\\JunctionsConfigurations\\MovieActor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:11:39.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Actor\\Actor.cs",
+              "RelativeDocumentMoniker": "MovieApp.Repositories\\Actor\\Actor.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Actor\\Actor.cs",
+              "RelativeToolTip": "MovieApp.Repositories\\Actor\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:07:56.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Genre\\Genre.cs",
+              "RelativeDocumentMoniker": "MovieApp.Repositories\\Genre\\Genre.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Genre\\Genre.cs",
+              "RelativeToolTip": "MovieApp.Repositories\\Genre\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:05:11.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Director\\Director.cs",
+              "RelativeDocumentMoniker": "MovieApp.Repositories\\Director\\Director.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Director\\Director.cs",
+              "RelativeToolTip": "MovieApp.Repositories\\Director\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:02:05.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Movie\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieApp.Repositories\\Movie\\Movie.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Movie\\Movie.cs",
+              "RelativeToolTip": "MovieApp.Repositories\\Movie\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:10:26.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Abstractions\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MovieApp.Repositories\\Abstractions\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\Abstractions\\BaseEntity.cs",
+              "RelativeToolTip": "MovieApp.Repositories\\Abstractions\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T11:08:12.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieGenre.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\JunctionsConfigurations\\MovieGenre.cs",
+              "RelativeDocumentMoniker": "MovieApp.Repositories\\JunctionsConfigurations\\MovieGenre.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\source\\repos\\MovieApp\\MovieApp.Repositories\\JunctionsConfigurations\\MovieGenre.cs",
+              "RelativeToolTip": "MovieApp.Repositories\\JunctionsConfigurations\\MovieGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:10:11.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

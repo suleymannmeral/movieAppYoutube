@@ -1,7 +1,7 @@
-﻿
-using MovieApp.Repositories.Abstractions;
+﻿using MovieApp.Repositories.Abstractions;
+using MovieApp.Repositories.JunctionsConfigurations;
 
-namespace MovieApp.Repositories;
+namespace MovieApp.Repositories.Movie;
 
 public class Movie: BaseEntity
 {

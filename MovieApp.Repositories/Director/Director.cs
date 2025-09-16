@@ -1,6 +1,6 @@
 ﻿using MovieApp.Repositories.Abstractions;
 
-namespace MovieApp.Repositories;
+namespace MovieApp.Repositories.Director;
 
 public sealed class Director:BaseEntity
 {
