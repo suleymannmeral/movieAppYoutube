@@ -1,0 +1,43 @@
+# ASP.NET Core
+## Genel
+[Bb]in/
+[Oo]bj/
+*.db
+*.db-shm
+*.db-wal
+.vs/
+.idea/
+.user
+.tmp
+.DS_Store
+*.suo
+*.user
+*.userprefs
+*.vssscc
+*.vspscc
+*.vspcc
+*.scc
+
+## Paketler
+/node_modules
+/bower_components
+/lib
+/wwwroot/lib
+/wwwroot/vendor
+/wwwroot/dist
+
+## Visual Studio & Visual Studio Code
+.vs/
+*.sln
+*.csproj.user
+*.vcxproj.user
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+*.vscode/
+
+## Mac & Linux
+*~
+*.swp
+.DS_Store
+.history/
